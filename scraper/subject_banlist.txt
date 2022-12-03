@@ -31,3 +31,15 @@ Final Project of Visual Art
 Final Comprehensive Examination
 Seminar and Final Project
 Sports
+Mathematics IA
+Mathematics IB
+Mathematics IC
+Mathematics IIA
+Mathematics IIB
+Mathematics IIC
+Physics IA
+Physics IB
+Physics IC
+Physics IIA
+Physics IIB
+Physics IIC
