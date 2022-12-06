@@ -28,6 +28,12 @@ end
 object
 way
 second
+write report
+14 week
+2 hour
+lecture evaluation
+write examination
+main purpose
 example
 year
 lecture

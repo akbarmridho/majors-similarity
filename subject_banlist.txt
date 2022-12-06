@@ -1,4 +1,11 @@
 Pancasila and Civic Education
+Industrial Experiences
+Introduction to Engineering and Design
+Mata Kuliah Wajib Lingkungan
+Elementary Physics IIA
+Mata Kuliah Wajib Manajemen
+Introduction to Computation
+Final Research Project
 Religion and Ethics
 English
 Final Project II
@@ -34,6 +41,18 @@ Sports
 Mathematics IA
 Mathematics IB
 Mathematics IC
+Industrial Internship
+Seminar and Engineering Management Internship
+Profession and Community Development C
+Profession and Community Development B
+Profession and Community Development A
+Profession and Community Development D
+Elementary Physics IA
+General Chemistry IA
+Elementary Physics IIA
+General Chemistry IIA
+Seminar and Final Colloqium
+Capstone (Design Project)
 Mathematics IIA
 Mathematics IIB
 Mathematics IIC
@@ -43,3 +62,11 @@ Physics IC
 Physics IIA
 Physics IIB
 Physics IIC
+Internship MBKM D
+Internship MBKM A
+Internship MBKM B
+Internship MBKM C
+Self-Learning A
+Self-Learning B
+Self-Learning C
+Self-Learning D
